@@ -1,0 +1,6 @@
+0.1 - 2011-11-16 17:00
+===
+
+   * First release
+     add camel_to_module
+     add module_to_camel
